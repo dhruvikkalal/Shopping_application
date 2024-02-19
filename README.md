@@ -18,7 +18,4 @@ Loading and caching image from actual Flipkart's image URl with help of Glide
 ACRA crash reporting (Planning to Move on Firebase)
 Data Mining with Apriori Algorithm.
 
-What Is Not Included (feel free to Ping me if you want complete solution):-
-Back End Web Server with Web API
-Admin Panel
-Website
+
